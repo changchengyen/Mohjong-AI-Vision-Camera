@@ -35,7 +35,7 @@ OLED Display
 | `tenpai.py` | 麻將聽牌判定 |
 | `test_model.py` | 模型測試 |
 | `test_ssd.py` | SSD 測試 |
-| `ch_test.py` | 中文相關測試 |
+| `ch_test.py` | 測試 CH1115 OLED 是否能正常顯示 |
 | `best_int8.tflite` | TensorFlow Lite AI 模型 |
 
 ## Hardware
