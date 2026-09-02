@@ -59,6 +59,15 @@ OLED Display
 - (RASPBERRY)  Raspberry Pi OS / Linux
 - (RASPBERRY)  Python virtual environment (venv)
   
+## model training methods
+
+raw pictures:
+For all classes of Mahjong dot tiles, images were collected under both single-tile and multi-tile arrangements. The dataset includes randomly distributed and unordered tiles, scattered tiles, upside-down tiles, and tiles captured from various viewing angles, such as top-down and side views. To improve dataset diversity, the lighting conditions and backgrounds were varied as much as possible.
+
+
+
+
+
 
 ## Usage
 
