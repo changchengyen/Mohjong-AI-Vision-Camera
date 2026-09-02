@@ -52,7 +52,6 @@ OLED Display
 - Raspberry Pi Zero 2 W
 - Esp32 Camera
 - OLED Display
-- 
 
 ## Environment
 
