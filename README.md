@@ -1,4 +1,4 @@
-# Mohjong AI Vision Camera
+# Mohjong AI Vision Camera 麻將智能眼鏡雛形
 
 基於 Raspberry Pi、Esp32 Camera 與 AI 視覺辨識的麻將影像分析專題。
 (2026年大二下學期選修大三通訊系嵌入式系統之課堂專題)
