@@ -1,7 +1,7 @@
 # Mohjong AI Vision Camera
 
 基於 Raspberry Pi、Esp32 Camera 與 AI 視覺辨識的麻將影像分析專題。
-(2026年大二下學期選修大三通訊系之課堂專題)
+(2026年大二下學期選修大三通訊系嵌入式系統之課堂專題)
 ## Project Overview
 
 本專題使用 Raspberry Pi 搭配 Esp32 Camera 進行影像擷取，
