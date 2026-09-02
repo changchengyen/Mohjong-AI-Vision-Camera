@@ -18,6 +18,7 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 
 | File | Description |
 |---|---|
+| `Demo Video` | Demo/functions Describtopn |
 | `main.py` | Main Code |
 | `detector.py` | Object Detect |
 | `infer.py` | AI Model Inference |
