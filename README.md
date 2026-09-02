@@ -25,7 +25,7 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 | `oled_fill.py` | OLED Initialization & Test Program |
 | `oled_test.py` | OLED Test |
 | `tenpai.py` | Tenpai Deter |
-| `test_model.py` | 模型測試 |
+| `test_model.py` | AI Model Loading Test |
 | `test_ssd.py` | SSD 測試 |
 | `ch_test.py` | 測試 CH1115 OLED 是否能正常顯示 |
 | `best_int8.tflite` | TensorFlow Lite AI Model |
