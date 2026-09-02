@@ -1,4 +1,5 @@
 # Mohjong AI Vision Camera 麻將智能眼鏡雛形
+作者:張政諺
 
 基於 Raspberry Pi、Esp32 Camera 與 AI 視覺辨識的麻將影像分析專題。
 
