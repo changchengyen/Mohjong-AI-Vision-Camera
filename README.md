@@ -50,7 +50,8 @@ OLED Display
 ## Hardware
 
 - Raspberry Pi Zero 2 W
-- Esp32 Camera
+- Esp32 CAM
+- ov3660 camera
 - OLED Display
 - ADATA 64GB micro sd
 ## Environment
