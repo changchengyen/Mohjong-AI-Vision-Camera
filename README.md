@@ -22,7 +22,7 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 | `detector.py` | Object Detect |
 | `infer.py` | AI Model Inference |
 | `oled.py` | OLED Control |
-| `oled_fill.py` | OLED 測試／填充 |
+| `oled_fill.py` | OLED Initialization & Test Program |
 | `oled_test.py` | OLED Test |
 | `tenpai.py` | Tenpai Deter |
 | `test_model.py` | 模型測試 |
