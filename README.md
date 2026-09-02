@@ -51,9 +51,10 @@ OLED Display
 
 - Raspberry Pi Zero 2 W
 - Esp32 CAM
+- Esp32-CAM-MB
 - ov3660 camera
 - [祥昌電子] 1.3吋 OLED 128x64 黑底藍字
-- ADATA 64GB micro sd
+- ADATA 64GB micro SD
 ## Environment
 
 - Raspberry Pi OS
