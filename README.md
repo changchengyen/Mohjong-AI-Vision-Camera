@@ -54,15 +54,15 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
   
 ## model training methods
 
-Take raw picture of objects:
+1.Take raw picture of objects:
 
 For all classes of Mahjong dot tiles, images were collected under both single-tile and multi-tile arrangements. The dataset includes randomly distributed and unordered tiles, scattered tiles, upside-down tiles, and tiles captured from various viewing angles, such as top-down and side views. To improve dataset diversity, the lighting conditions and backgrounds were varied as much as possible.
 
-Label the objects:
+2.Label the objects:
 
 The collected images were subsequently uploaded to Roboflow for class definition and classification. After establishing the classes, the Mahjong tiles in each image were manually annotated with bounding boxes according to their corresponding classes.
 
-Train the model:
+3.Train the model:
 
 The annotated dataset was exported from Roboflow in YOLO format and used to train the object detection model through the terminal. The YOLO model was trained to detect and classify Mahjong dot tiles based on their corresponding bounding boxes and classes.
 
