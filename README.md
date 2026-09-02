@@ -70,6 +70,26 @@ Label the objects:
 
 The collected images were subsequently downloaded and uploaded to Roboflow for class definition and classification. After establishing the classes, the Mahjong tiles in each image were manually annotated with bounding boxes according to their corresponding classes.
 
+Train the model:
+
+The annotated dataset was exported from Roboflow in YOLO format and used to train the object detection model through the terminal. The YOLO model was trained to detect and classify Mahjong dot tiles based on their corresponding bounding boxes and classes.
+
+The dataset structure is as follows:
+
+```text
+dataset/
+├── train/
+│   ├── images/
+│   └── labels/
+├── valid/
+│   ├── images/
+│   └── labels/
+├── test/
+│   ├── images/
+│   └── labels/
+└── data.yaml
+
+
 
 
 
