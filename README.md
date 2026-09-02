@@ -68,7 +68,7 @@ For all classes of Mahjong dot tiles, images were collected under both single-ti
 
 Label the objects:
 
-The collected images were subsequently downloaded and uploaded to Roboflow for class definition and classification. After establishing the classes, the Mahjong tiles in each image were manually annotated with bounding boxes according to their corresponding classes.
+The collected images were subsequently uploaded to Roboflow for class definition and classification. After establishing the classes, the Mahjong tiles in each image were manually annotated with bounding boxes according to their corresponding classes.
 
 Train the model:
 
