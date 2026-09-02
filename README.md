@@ -11,15 +11,15 @@
 ## System Architecture
 
 Camera
-↓
+->
 Raspberry Pi
-↓
+->
 AI Image Detection
-↓
+->
 TensorFlow Lite
-↓
+->
 Result Processing
-↓
+->
 OLED Display
 
 ## Main Components
