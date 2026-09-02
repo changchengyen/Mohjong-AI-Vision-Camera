@@ -22,15 +22,6 @@ Result Processing
 ->
 OLED Display
 
-## Main Components
-
-- Raspberry Pi
-- Camera
-- OLED Display
-- TensorFlow Lite
-- Python
-- AI Image Detection
-
 ## Files
 
 | File | Description |
