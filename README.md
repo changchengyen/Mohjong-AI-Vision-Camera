@@ -41,7 +41,7 @@ OLED Display
 | `oled.py` | OLED 顯示控制 |
 | `oled_fill.py` | OLED 測試／填充 |
 | `oled_test.py` | OLED 測試 |
-| `tenpai.py` | 麻將相關判定 |
+| `tenpai.py` | 麻將聽牌判定 |
 | `test_model.py` | 模型測試 |
 | `test_ssd.py` | SSD 測試 |
 | `ch_test.py` | 中文相關測試 |
