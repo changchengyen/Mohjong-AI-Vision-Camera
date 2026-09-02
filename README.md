@@ -52,7 +52,7 @@ OLED Display
 - Raspberry Pi Zero 2 W
 - Esp32 Camera
 - OLED Display
-
+- ADATA 64GB micro sd
 ## Environment
 
 - Raspberry Pi OS
