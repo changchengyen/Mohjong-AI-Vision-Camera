@@ -18,17 +18,17 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 
 | File | Description |
 |---|---|
-| `main.py` | 主程式 |
-| `detector.py` | 影像偵測 |
+| `main.py` | Main Code |
+| `detector.py` | Object Detect |
 | `infer.py` | AI 模型推論 |
-| `oled.py` | OLED 顯示控制 |
+| `oled.py` | OLED Control |
 | `oled_fill.py` | OLED 測試／填充 |
-| `oled_test.py` | OLED 測試 |
-| `tenpai.py` | 麻將聽牌判定 |
+| `oled_test.py` | OLED Test |
+| `tenpai.py` | Tenpai Deter |
 | `test_model.py` | 模型測試 |
 | `test_ssd.py` | SSD 測試 |
 | `ch_test.py` | 測試 CH1115 OLED 是否能正常顯示 |
-| `best_int8.tflite` | TensorFlow Lite AI 模型 |
+| `best_int8.tflite` | TensorFlow Lite AI Model |
 
 ## Hardware
 
