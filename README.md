@@ -57,14 +57,16 @@ OLED Display
 - ADATA 64GB micro SD
 ## Environment
 
-- Raspberry Pi OS
-- Python 3.11.9
+- (CODE)  Visual Studio Code
+- (CODE)  Python 3.11.9
 - (CAM) Arduino IDE 2.3.8
 - (CAM) CameraWebServer
 - (AI)  YOLO / Ultralytics
 - (AI)  TensorFlow Lite
 - (AI)  TensorFlow 2.19.0
 - (IMG) OpenCV (cv2)
+- (RASPBERRY)  Raspberry Pi OS / Linux
+- (RASPBERRY)  Python virtual environment (venv)
   
 
 ## Usage
