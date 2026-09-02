@@ -57,8 +57,14 @@ OLED Display
 ## Environment
 
 - Raspberry Pi OS
-- Python 3
-- TensorFlow Lite
+- Python 3.11.9
+- (CAM) Arduino IDE 2.3.8
+- (CAM) CameraWebServer
+- (AI)  YOLO / Ultralytics
+- (AI)  TensorFlow Lite
+- (AI)  TensorFlow 2.19.0
+- (IMG) OpenCV (cv2)
+  
 
 ## Usage
 
