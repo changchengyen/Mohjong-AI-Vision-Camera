@@ -1,5 +1,5 @@
 # Mohjong AI Vision Camera (Smart Mahjong Glasses Prototype)
-作者:張政諺
+Author/Developer:張政諺
 
 基於 Raspberry Pi、Esp32 Camera 與 AI 視覺辨識的麻將影像分析專題。
 
