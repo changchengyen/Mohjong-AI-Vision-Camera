@@ -8,17 +8,7 @@ This project uses a Raspberry Pi and an ESP32-CAM for image acquisition. TensorF
 
 ## System Architecture
 
-Camera
-->
-Raspberry Pi
-->
-AI Image Detection
-->
-TensorFlow Lite
-->
-Result Processing
-->
-OLED Display
+Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → TensorFlow Lite → Result Processing → OLED Display
 
 ## Files
 
