@@ -1,7 +1,9 @@
 # Mohjong AI Vision Camera 麻將智能眼鏡雛形
 
 基於 Raspberry Pi、Esp32 Camera 與 AI 視覺辨識的麻將影像分析專題。
+
 (2026年大二下學期選修大三通訊系嵌入式系統之課堂專題)
+此作品於2026/06/15測試成功，並於2026/06/17於課堂中進行最終報告
 ## Project Overview
 
 This project uses a Raspberry Pi and an ESP32-CAM for image acquisition. TensorFlow Lite models are used for Mahjong tile recognition, and the results, including the unsorted hand, whether the hand is in tenpai, and the tiles needed to complete the hand, are displayed on an OLED.
