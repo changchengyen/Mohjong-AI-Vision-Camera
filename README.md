@@ -26,8 +26,8 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 | `oled_test.py` | OLED Test |
 | `tenpai.py` | Tenpai Deter |
 | `test_model.py` | AI Model Loading Test |
-| `test_ssd.py` | SSD 測試 |
-| `ch_test.py` | OLED Text Display Test |
+| `test_ssd.py` | SSD1306 OLED Display Test |
+| `ch_test.py` | CH1115 OLED Display Test |
 | `best_int8.tflite` | TensorFlow Lite AI Model |
 
 ## Hardware
