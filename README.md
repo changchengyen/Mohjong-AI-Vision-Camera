@@ -4,9 +4,7 @@
 (2026年大二下學期選修大三通訊系嵌入式系統之課堂專題)
 ## Project Overview
 
-本專題使用 Raspberry Pi 搭配 Esp32 Camera 進行影像擷取，
-並透過 TensorFlow Lite 模型進行麻將相關影像辨識，
-最後將辨識結果顯示於 OLED。
+This project uses a Raspberry Pi and an ESP32-CAM for image acquisition. TensorFlow Lite models are used for Mahjong tile recognition, and the results, including the unsorted hand, whether the hand is in tenpai, and the tiles needed to complete the hand, are displayed on an OLED.
 
 ## System Architecture
 
