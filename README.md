@@ -41,17 +41,21 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 - ADATA 64GB micro SD
 ## Environment
 
-| (CODE)  Visual Studio Code | Coding Environment |
-| (CODE)  Python 3.11.9 | Coding Language |
-| (CAM) Arduino IDE 2.3.8 |Coding Environment For ESP32-CAM | 
-- (CAM) CameraWebServer
-- (AI)  YOLO / Ultralytics
-- (AI)  TensorFlow Lite
-- (AI)  TensorFlow 2.19.0
-- (AI)  roboflow
-- (IMG) OpenCV (cv2)
-- (RASPBERRY)  Raspberry Pi OS / Linux
-- (RASPBERRY)  Python virtual environment (venv)
+## Environment
+
+| Category | Software / Version | Description |
+|---|---|---|
+| CODE | Visual Studio Code | Coding Environment |
+| CODE | Python 3.11.9 | Programming Language |
+| CAM | Arduino IDE 2.3.8 | Coding Environment for ESP32-CAM |
+| CAM | CameraWebServer | ESP32-CAM Camera Streaming |
+| AI | YOLO / Ultralytics | Object Detection Model |
+| AI | TensorFlow Lite | AI Model Inference |
+| AI | TensorFlow 2.19.0 | AI Development Framework |
+| AI | Roboflow | Dataset Annotation and Management |
+| IMG | OpenCV (cv2) | Image Processing |
+| RASPBERRY | Raspberry Pi OS / Linux | Operating System |
+| RASPBERRY | Python virtual environment (venv) | Python Environment |
   
 ## model training methods
 
