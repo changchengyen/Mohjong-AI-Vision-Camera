@@ -56,7 +56,7 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 | IMG | OpenCV (cv2) | Image Processing |
 | RASPBERRY | Raspberry Pi OS / Linux | Operating System |
 | RASPBERRY | Python virtual environment (venv) | Isolated Python environment for the project |
-| RASPBERRY | Raspberry Pi Imager | Raspberry Initialization & Write Raspberry Pi OS to a microSD card |
+| RASPBERRY | Raspberry Pi Imager | Raspberry Initialization & Write Raspberry Pi OS to microSD card |
   
 ## model training methods
 
