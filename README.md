@@ -5,7 +5,7 @@ Author/Developer:張政諺
 
 (2026年大二下學期選修大三通訊系嵌入式系統之課堂專題)
 
-此作品於2026/06/15測試成功，並於2026/06/17於課堂中進行最終報告
+This prototype was done code loading and trial at 2026/06/15, demonstrated on 2026/06/17.
 ## Project Overview
 
 This project uses a Raspberry Pi and an ESP32-CAM for image acquisition. TensorFlow Lite models are used for Mahjong tile recognition, and the results, including the unsorted hand, whether the hand is in tenpai, and the tiles needed to complete the hand, are displayed on an OLED.
