@@ -86,7 +86,7 @@ dataset/
 │   └── labels/
 └── data.yaml
 ```
-The model was trained using the following command:
+The model was trained using the following command (CMD):
 
 ```
 yolo detect train data=data.yaml model=yolo11n.pt epochs=100 imgsz=640
