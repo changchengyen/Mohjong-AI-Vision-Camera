@@ -55,7 +55,7 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 | AI | Roboflow | Dataset Annotation and Management |
 | IMG | OpenCV (cv2) | Image Processing |
 | RASPBERRY | Raspberry Pi OS / Linux | Operating System |
-| RASPBERRY | Python virtual environment (venv) | Python Environment |
+| Python virtual environment (venv) | Isolated Python environment for the project |
   
 ## model training methods
 
