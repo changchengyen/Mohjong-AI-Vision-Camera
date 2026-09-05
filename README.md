@@ -43,7 +43,7 @@ Camera → Wi-Fi Communication → Raspberry Pi → AI Image Detection → Tenso
 
 - | (CODE)  Visual Studio Code | Coding Environment |
 - | (CODE)  Python 3.11.9 | Coding Language |
-- | (CAM) Arduino IDE 2.3.8 |Coding Environment For ESP32-CAM |
+- | (CAM) Arduino IDE 2.3.8 |Coding Environment For ESP32-CAM | 
 - (CAM) CameraWebServer
 - (AI)  YOLO / Ultralytics
 - (AI)  TensorFlow Lite
